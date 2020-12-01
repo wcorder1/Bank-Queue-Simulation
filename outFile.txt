@@ -1,0 +1,365 @@
+Customer 5 Left at Time : 1447
+Customers currently being serviced:
+  Customer6 43 wait  service 1512
+Customers currently waiting:
+  Customer7 277 wait  service 1791
+  Customer8 172 wait  service 1663
+
+Customer 10 Left at Time : 2665
+Customers currently being serviced:
+  Customer11 0 wait  service 2742
+Customers currently waiting:
+  Customer12 333 wait  service 2973
+
+Customer 15 Left at Time : 3432
+Customers currently being serviced:
+  Customer16 119 wait  service 3551
+Customers currently waiting:
+  Customer17 220 wait  service 3642
+  Customer18 187 wait  service 3840
+
+Customer 20 Left at Time : 4372
+Customers currently being serviced:
+  Customer21 0 wait  service 4445
+Customers currently waiting:
+  Customer22 9 wait  service 4708
+
+Customer 25 Left at Time : 5034
+Customers currently being serviced:
+  Customer26 112 wait  service 5379
+Customers currently waiting:
+  Customer27 95 wait  service 5322
+  Customer28 63 wait  service 5327
+
+Customer 30 Left at Time : 5899
+Customers currently being serviced:
+  Customer30 0 wait  service 5915
+Customers currently waiting:
+
+Customer 35 Left at Time : 6715
+Customers currently being serviced:
+  Customer34 0 wait  service 6751
+Customers currently waiting:
+  Customer37 132 wait  service 6880
+  Customer38 99 wait  service 6839
+  Customer39 38 wait  service 6979
+
+Customer 40 Left at Time : 7211
+Customers currently being serviced:
+  Customer41 23 wait  service 7524
+Customers currently waiting:
+
+Customer 45 Left at Time : 8866
+Customers currently being serviced:
+  Customer46 102 wait  service 8867
+Customers currently waiting:
+  Customer47 127 wait  service 9069
+  Customer48 22 wait  service 9102
+
+Customer 50 Left at Time : 9345
+Customers currently being serviced:
+  Customer51 57 wait  service 9715
+Customers currently waiting:
+  Customer52 61 wait  service 9702
+  Customer53 7 wait  service 9817
+
+Customer 55 Left at Time : 10365
+Customers currently being serviced:
+  Customer56 3 wait  service 10631
+Customers currently waiting:
+
+Customer 60 Left at Time : 11535
+Customers currently being serviced:
+  Customer61 39 wait  service 11565
+Customers currently waiting:
+  Customer62 262 wait  service 11866
+  Customer63 129 wait  service 12005
+
+Customer 65 Left at Time : 12472
+Customers currently being serviced:
+  Customer66 293 wait  service 12659
+Customers currently waiting:
+  Customer67 424 wait  service 12645
+
+Customer 70 Left at Time : 13151
+Customers currently being serviced:
+  Customer70 130 wait  service 13189
+Customers currently waiting:
+  Customer72 318 wait  service 13433
+  Customer73 221 wait  service 13307
+  Customer74 159 wait  service 13463
+  Customer75 53 wait  service 13359
+
+Customer 75 Left at Time : 13657
+Customers currently being serviced:
+  Customer76 486 wait  service 13891
+Customers currently waiting:
+  Customer77 313 wait  service 13945
+
+Customer 80 Left at Time : 14405
+Customers currently being serviced:
+  Customer81 455 wait  service 14681
+Customers currently waiting:
+  Customer82 573 wait  service 14626
+  Customer83 428 wait  service 14747
+
+Customer 85 Left at Time : 15126
+Customers currently being serviced:
+  Customer86 347 wait  service 15344
+Customers currently waiting:
+  Customer87 497 wait  service 15565
+  Customer88 472 wait  service 15352
+  Customer89 188 wait  service 15385
+  Customer90 24 wait  service 15309
+
+Customer 90 Left at Time : 15824
+Customers currently being serviced:
+  Customer91 597 wait  service 16176
+Customers currently waiting:
+  Customer92 603 wait  service 15947
+  Customer93 573 wait  service 16011
+  Customer94 568 wait  service 16043
+  Customer95 383 wait  service 16137
+  Customer96 207 wait  service 15986
+
+Customer 95 Left at Time : 16489
+Customers currently being serviced:
+  Customer96 736 wait  service 16515
+Customers currently waiting:
+  Customer97 602 wait  service 16740
+  Customer98 507 wait  service 16627
+  Customer99 450 wait  service 16855
+  Customer100 435 wait  service 16705
+  Customer101 255 wait  service 16907
+  Customer102 75 wait  service 16847
+
+Customer 100 Left at Time : 17019
+Customers currently being serviced:
+  Customer101 722 wait  service 17374
+Customers currently waiting:
+  Customer102 605 wait  service 17377
+  Customer103 277 wait  service 17242
+  Customer104 266 wait  service 17426
+
+Customer 105 Left at Time : 17866
+Customers currently being serviced:
+  Customer106 742 wait  service 18129
+Customers currently waiting:
+  Customer107 727 wait  service 17993
+  Customer108 691 wait  service 18044
+  Customer109 690 wait  service 18246
+  Customer110 597 wait  service 17988
+  Customer111 487 wait  service 18058
+  Customer112 343 wait  service 17995
+
+Customer 110 Left at Time : 18485
+Customers currently being serviced:
+  Customer109 953 wait  service 18509
+Customers currently waiting:
+  Customer112 962 wait  service 18614
+  Customer113 582 wait  service 18694
+  Customer114 158 wait  service 18887
+
+Customer 115 Left at Time : 19271
+Customers currently being serviced:
+  Customer116 0 wait  service 19515
+Customers currently waiting:
+
+Customer 120 Left at Time : 20378
+Customers currently being serviced:
+  Customer121 91 wait  service 20537
+Customers currently waiting:
+  Customer122 65 wait  service 20617
+
+Customer 125 Left at Time : 21517
+Customers currently being serviced:
+Customers currently waiting:
+
+Customer 130 Left at Time : 22450
+Customers currently being serviced:
+  Customer131 420 wait  service 22601
+Customers currently waiting:
+  Customer132 467 wait  service 22693
+  Customer133 336 wait  service 22765
+
+Customer 135 Left at Time : 23691
+Customers currently being serviced:
+  Customer135 0 wait  service 23783
+Customers currently waiting:
+  Customer137 148 wait  service 23911
+  Customer138 93 wait  service 24077
+
+Customer 140 Left at Time : 24508
+Customers currently being serviced:
+  Customer141 380 wait  service 24629
+Customers currently waiting:
+  Customer142 494 wait  service 24964
+  Customer143 186 wait  service 24788
+  Customer144 71 wait  service 24897
+  Customer145 61 wait  service 24902
+
+Customer 145 Left at Time : 25358
+Customers currently being serviced:
+  Customer146 653 wait  service 25545
+Customers currently waiting:
+  Customer147 673 wait  service 25501
+  Customer148 624 wait  service 25787
+  Customer149 503 wait  service 25485
+  Customer150 434 wait  service 25644
+
+Customer 150 Left at Time : 25958
+Customers currently being serviced:
+Customers currently waiting:
+
+  Customer1 0 wait  service 673
+  Customer2 0 wait  service 926
+  Customer3 13 wait  service 982
+  Customer4 56 wait  service 1201
+  Customer5 0 wait  service 1447
+  Customer6 43 wait  service 1512
+  Customer8 237 wait  service 1728
+  Customer7 277 wait  service 1791
+  Customer9 145 wait  service 2112
+  Customer10 0 wait  service 2665
+  Customer11 0 wait  service 2742
+  Customer12 333 wait  service 2973
+  Customer14 195 wait  service 3170
+  Customer13 24 wait  service 3182
+  Customer15 314 wait  service 3432
+  Customer16 119 wait  service 3551
+  Customer17 220 wait  service 3642
+  Customer18 306 wait  service 3959
+  Customer19 0 wait  service 4177
+  Customer20 0 wait  service 4372
+  Customer21 0 wait  service 4445
+  Customer23 68 wait  service 4634
+  Customer22 9 wait  service 4708
+  Customer24 0 wait  service 5016
+  Customer25 0 wait  service 5034
+  Customer27 95 wait  service 5322
+  Customer26 112 wait  service 5379
+  Customer28 351 wait  service 5615
+  Customer29 0 wait  service 5764
+  Customer31 66 wait  service 5899
+  Customer30 0 wait  service 5915
+  Customer33 0 wait  service 6282
+  Customer32 0 wait  service 6392
+  Customer35 64 wait  service 6552
+  Customer36 108 wait  service 6715
+  Customer34 0 wait  service 6751
+  Customer38 135 wait  service 6875
+  Customer37 132 wait  service 6880
+  Customer39 198 wait  service 7139
+  Customer40 0 wait  service 7211
+  Customer41 23 wait  service 7524
+  Customer42 0 wait  service 8215
+  Customer43 0 wait  service 8521
+  Customer44 0 wait  service 8694
+  Customer45 0 wait  service 8866
+  Customer46 102 wait  service 8867
+  Customer47 127 wait  service 9069
+  Customer48 23 wait  service 9103
+  Customer50 110 wait  service 9333
+  Customer49 124 wait  service 9345
+  Customer52 61 wait  service 9702
+  Customer51 57 wait  service 9715
+  Customer54 298 wait  service 10146
+  Customer53 364 wait  service 10174
+  Customer55 304 wait  service 10365
+  Customer56 3 wait  service 10631
+  Customer57 0 wait  service 10759
+  Customer58 0 wait  service 10921
+  Customer59 0 wait  service 11239
+  Customer60 0 wait  service 11535
+  Customer61 39 wait  service 11565
+  Customer62 262 wait  service 11866
+  Customer63 159 wait  service 12035
+  Customer64 314 wait  service 12272
+  Customer65 149 wait  service 12472
+  Customer67 424 wait  service 12645
+  Customer66 293 wait  service 12659
+  Customer69 0 wait  service 12879
+  Customer68 93 wait  service 12899
+  Customer71 87 wait  service 13151
+  Customer70 130 wait  service 13189
+  Customer73 259 wait  service 13345
+  Customer72 318 wait  service 13433
+  Customer75 335 wait  service 13641
+  Customer74 353 wait  service 13657
+  Customer76 486 wait  service 13891
+  Customer77 313 wait  service 13945
+  Customer79 176 wait  service 14182
+  Customer78 232 wait  service 14273
+  Customer80 388 wait  service 14405
+  Customer82 573 wait  service 14626
+  Customer81 455 wait  service 14681
+  Customer84 171 wait  service 14931
+  Customer83 649 wait  service 14968
+  Customer85 374 wait  service 15126
+  Customer86 347 wait  service 15344
+  Customer87 497 wait  service 15565
+  Customer88 690 wait  service 15570
+  Customer90 468 wait  service 15753
+  Customer89 627 wait  service 15824
+  Customer92 603 wait  service 15947
+  Customer93 696 wait  service 16134
+  Customer91 597 wait  service 16176
+  Customer94 878 wait  service 16353
+  Customer95 735 wait  service 16489
+  Customer96 736 wait  service 16515
+  Customer98 533 wait  service 16653
+  Customer97 602 wait  service 16740
+  Customer100 686 wait  service 16956
+  Customer99 614 wait  service 17019
+  Customer101 722 wait  service 17374
+  Customer102 605 wait  service 17377
+  Customer103 632 wait  service 17597
+  Customer104 624 wait  service 17784
+  Customer105 561 wait  service 17866
+  Customer107 727 wait  service 17993
+  Customer106 742 wait  service 18129
+  Customer108 818 wait  service 18171
+  Customer110 902 wait  service 18293
+  Customer111 914 wait  service 18485
+  Customer109 953 wait  service 18509
+  Customer112 962 wait  service 18614
+  Customer113 606 wait  service 18718
+  Customer114 287 wait  service 19016
+  Customer115 0 wait  service 19271
+  Customer116 0 wait  service 19515
+  Customer117 0 wait  service 19678
+  Customer118 0 wait  service 19950
+  Customer119 11 wait  service 20103
+  Customer120 34 wait  service 20378
+  Customer121 91 wait  service 20537
+  Customer122 65 wait  service 20617
+  Customer123 0 wait  service 20766
+  Customer124 0 wait  service 21308
+  Customer125 0 wait  service 21517
+  Customer126 0 wait  service 21919
+  Customer127 0 wait  service 21995
+  Customer129 194 wait  service 22225
+  Customer128 265 wait  service 22364
+  Customer130 417 wait  service 22450
+  Customer131 420 wait  service 22601
+  Customer132 467 wait  service 22693
+  Customer133 487 wait  service 22916
+  Customer134 0 wait  service 23281
+  Customer136 0 wait  service 23691
+  Customer135 0 wait  service 23783
+  Customer137 148 wait  service 23911
+  Customer138 185 wait  service 24169
+  Customer139 128 wait  service 24374
+  Customer140 386 wait  service 24508
+  Customer141 380 wait  service 24629
+  Customer143 307 wait  service 24909
+  Customer142 494 wait  service 24964
+  Customer144 472 wait  service 25298
+  Customer145 517 wait  service 25358
+  Customer147 673 wait  service 25501
+  Customer146 653 wait  service 25545
+  Customer149 690 wait  service 25672
+  Customer148 767 wait  service 25930
+  Customer150 748 wait  service 25958
+
+Average wait time = 270.74 seconds.
